@@ -7,7 +7,7 @@ på Datamatiker uddanelsen i første semester 2019.
 
 Her er et link til mit github repository:
 
-https://github.com/TheMagicalKing/helloworld
+[Repository Link](https://github.com/TheMagicalKing/helloworld)
 
-Denne Github er lavet af Nicki Hvolgaard/ github.com/TheMagicalKing/
+Denne Github er lavet af Nicki Hvolgaard/[TheMagicalKing](github.com/TheMagicalKing/)
 
