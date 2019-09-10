@@ -9,5 +9,5 @@ Her er et link til mit github repository:
 
 [Repository Link](https://github.com/TheMagicalKing/helloworld)
 
-Denne Github er lavet af Nicki Hvolgaard/[TheMagicalKing](github.com/TheMagicalKing/)
+Denne Github er lavet af Nicki Hvolgaard/[TheMagicalKing](https://github.com/TheMagicalKing/)
 
